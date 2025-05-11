@@ -1,0 +1,1209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\classroom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\classroom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\homework\\teachindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\teachindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\announcements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\announcements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\homeworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\home\\archived.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\home\\archived.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\hello\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\hello\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\homework\\homeworklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\homeworklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\class_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\class_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\homework_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\homework_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\homework\\addhomework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\addhomework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\homework\\createhomework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\homework\\createhomework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\viewmodels\\joinclassroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:viewmodels\\joinclassroommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\home\\createclassroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\home\\createclassroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|c:\\users\\yafes\\onedrive\\masa\u00FCst\u00FC\\classroom\\classroom\\views\\home\\joinclassroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77B3DE48-FDFA-47D3-861F-4FF1CA819056}|Classroom.csproj|solutionrelative:views\\home\\joinclassroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:52:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:52:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeachIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\TeachIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\TeachIndex.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\TeachIndex.cshtml",
+              "RelativeToolTip": "Views\\Homework\\TeachIndex.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:07:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:14:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:14:50.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Classroom\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Classroom\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Classroom\\Index.cshtml",
+              "RelativeToolTip": "Views\\Classroom\\Index.cshtml",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAFkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:03:26.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassroomController.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\ClassroomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassroomController.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\ClassroomController.cs",
+              "RelativeToolTip": "Controllers\\ClassroomController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAOEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:54:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:38:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T22:10:05.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:49:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:06:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:05:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:13:59.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:05:51.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:05:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Announcements.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Announcements.cs",
+              "RelativeDocumentMoniker": "Models\\Announcements.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Announcements.cs",
+              "RelativeToolTip": "Models\\Announcements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:35:11.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeworkController.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HomeworkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeworkController.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HomeworkController.cs",
+              "RelativeToolTip": "Controllers\\HomeworkController.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAmwLwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:00:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\Index.cshtml",
+              "RelativeToolTip": "Views\\Homework\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:02:06.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:22:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Archived.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\Archived.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Archived.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\Archived.cshtml",
+              "RelativeToolTip": "Views\\Home\\Archived.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwFEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:06:18.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Hello\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Hello\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:13:36.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:06:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hello\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hello\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:15:36.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:42:30.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:14:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:00:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:22:33.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeworkList.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\HomeworkList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\HomeworkList.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\HomeworkList.cshtml",
+              "RelativeToolTip": "Views\\Homework\\HomeworkList.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAEIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:06:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T10:40:31.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class_User.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Class_User.cs",
+              "RelativeDocumentMoniker": "Models\\Class_User.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Class_User.cs",
+              "RelativeToolTip": "Models\\Class_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:14:36.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Homework.cs",
+              "RelativeDocumentMoniker": "Models\\Homework.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Homework.cs",
+              "RelativeToolTip": "Models\\Homework.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:09:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "Models\\ClassRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:54:11.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Homework_User.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Homework_User.cs",
+              "RelativeDocumentMoniker": "Models\\Homework_User.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Homework_User.cs",
+              "RelativeToolTip": "Models\\Homework_User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:29:08.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddHomework.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\AddHomework.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\AddHomework.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\AddHomework.cshtml",
+              "RelativeToolTip": "Views\\Homework\\AddHomework.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:01:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateHomework.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\CreateHomework.cshtml",
+              "RelativeDocumentMoniker": "Views\\Homework\\CreateHomework.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Homework\\CreateHomework.cshtml",
+              "RelativeToolTip": "Views\\Homework\\CreateHomework.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T17:02:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAIwMAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:06:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:14:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:14:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:52:48.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwE4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:49:02.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeletePersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:59.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:53.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:49.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:56.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:01:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:14:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:06:03.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T22:14:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:07:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ShowRecoveryCodes.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:10:57.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:10:48.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:09:36.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:09:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:08:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GenerateRecoveryCodes.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:08:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:08:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EnableAuthenticator.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:08:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:05:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:04:30.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:03:56.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:55:33.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:53:37.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:54:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:49:01.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:57:26.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:42:30.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:45:25.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T23:01:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JoinClassRoomModel.cs",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\ViewModels\\JoinClassRoomModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\JoinClassRoomModel.cs",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\ViewModels\\JoinClassRoomModel.cs",
+              "RelativeToolTip": "ViewModels\\JoinClassRoomModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:14:48.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-11T22:13:45.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CreateClassRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\CreateClassRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateClassRoom.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\CreateClassRoom.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateClassRoom.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:06:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "JoinClassRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\JoinClassRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\JoinClassRoom.cshtml",
+              "ToolTip": "C:\\Users\\yafes\\OneDrive\\Masa\u00FCst\u00FC\\Classroom\\Classroom\\Views\\Home\\JoinClassRoom.cshtml",
+              "RelativeToolTip": "Views\\Home\\JoinClassRoom.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T21:09:35.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
